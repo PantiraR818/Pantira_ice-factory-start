@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IceFactoryApplication<ice-factory>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "nvc.bcit.icefactory.IceFactoryApplication",
+            "projectName": "ice-factory",
+            "args": ""
+        }
+    ]
+}
